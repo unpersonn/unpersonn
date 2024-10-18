@@ -5,7 +5,7 @@
 I am unperson, just starting out my programming journey. Currently learning python and developing a Discord bot for my server. I am open for more knowledge and collaborations so feel free to reach out to me.
 
    <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YxshhFTW?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/unpersonn?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://discord.com/channels/@unpersonn">
          <img alt="Discord" title="My Discord" src="https://custom-icon-badges.demolab.com/badge/Discord-%235865F2?logo=discordcompressed&style=for-the-badge&labelColor=%23FFFFFF&"/></a>
    </p>
